@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database
+database/*.db
+
+# Models
+models/*.yml
+models/*.xml
+
+# Data
+data/**
+!data/.gitkeep
+
+# Environments
+.env
+venv/
+env/
+ACCESO_SISTEMA.txt
+
+# IDEs
+.vscode/
+.idea/
+
+# Binaries / OS
+Thumbs.db
+.DS_Store
+*.docx
